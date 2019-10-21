@@ -12,7 +12,7 @@ Person B should modify content here.
 
 ## Person C:
 
-Person C should modify content here.
+HELLO!!! added my-secrets.txt
 
 ## Person D:
 
