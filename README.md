@@ -15,6 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Person B:
 
+Hello Leaf Squad!
 Person B should modify content here.
 
 ## Person C:
