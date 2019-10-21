@@ -4,7 +4,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Person A:
 
-Person A should modify content here.
+#                      _ 
+#                     (_)
+#   ___ ___  _ __ __ _ _ 
+#  / __/ _ \| '__/ _` | |
+# | (_| (_) | | | (_| | |
+#  \___\___/|_|  \__, |_|
+#                 __/ |  
+#                |___/   
 
 ## Person B:
 
