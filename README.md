@@ -8,6 +8,7 @@ Person A should modify content here.
 
 ## Person B:
 
+Hello Leaf Squad!
 Person B should modify content here.
 
 ## Person C:
